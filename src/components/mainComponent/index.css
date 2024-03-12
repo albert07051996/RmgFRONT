@@ -1,0 +1,35 @@
+.color_green{
+    background-color: rgb(28, 228, 105);
+    align-items: center;
+    text-align: center;
+}
+
+.color_orange{
+    background-color: rgb(226, 113, 21);
+    align-items: center;
+    text-align: center;
+}
+
+
+.color_blue{
+    background-color: rgb(18, 179, 228);
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.color_red{
+    background-color: rgb(228, 18, 18);
+    align-items: center;
+    text-align: center;
+}
+
+
+.color_Pink{
+    background-color: rgb(245, 10, 233);
+align-items: center;
+text-align: center;
+}
+
+.ant-table-wrapper .ant-table-thead >tr>th, .ant-table-wrapper .ant-table-thead >tr>td {    text-align: center;}
